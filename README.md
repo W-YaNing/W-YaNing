@@ -8,16 +8,9 @@
 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/W-YaNing)
 
-
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat-square&logo=Visual%20Studio%20Code)
-![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)
-
-![html](https://img.shields.io/badge/-html-E34F26?style=flat-square&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/-css-1572B6?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/JavaScript-red?style=flat-square&logo=javascript) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/W-YaNing)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 
